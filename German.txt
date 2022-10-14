@@ -1,2 +1,0 @@
-hallo:HELLO:नमस्ते:hallo:bonjour
-BIENVENUE:WELCOME:स्वागतहे:BIENVENUE:WILLKOMMEN
